@@ -63,6 +63,7 @@ def main():
 
     # Initialization of the game's variables
     secret = createSecret()
+    print(secret)
     line = 2
     playing = True
     win = False
@@ -81,8 +82,6 @@ def main():
         if not playing:
             endGame(screen, line - 2, win)
             mm.afficherCombinaison(screen, secret, 0.5)
-            pygame.time.wait(8000)
-            running = False
             continue # Continue the loop without executing the rest of the code
 
         # If the game is over, displays the end screen
