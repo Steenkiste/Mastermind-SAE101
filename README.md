@@ -16,7 +16,7 @@ For this project we recived a already existing script (mm.py) and it was our goa
 </br>
 This project is the result of my work, it's a simple game of Mastermind with some differents in the rules : 9 colors, 5 pegs and 15 tries.
 
-<img src="./ccwgol.gif"/>
+<img src="./mast101.gif"/>
 
 ## How to try it?
 1. **Download** this repository :
