@@ -52,11 +52,6 @@ The objective of the game is to guess the secret code of colors within 15 attemp
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## License
-This project is open-source. You can use, modify, and distribute it. If you include major changes or use it as part of your project, consider giving credit in your own README.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Credits
 Conway's Game of Life rules: [Wikipedia](https://en.wikipedia.org/wiki/Mastermind_(board_game))
 <br /> Pygame (https://www.pygame.org/)
