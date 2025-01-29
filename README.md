@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # Mastermind-SAE101
 
 A Python school project to better understanding of fundamental algorithms and introduce the use of graphic librairies like Pygame. This project presents a fully functional Mastermind game where the user can play until they find the secret code or exhaust their tries.
@@ -18,6 +20,8 @@ This game use differents rules from the base game of [Mastermind](https://en.wik
 
 <img src="./mast101.gif"/>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## How to play
 The objective of the game is to guess the secret code of colors within 15 attempts. The game provides feedback on each attempt :
 - White markers : correct color and correct positions.
@@ -35,6 +39,7 @@ The objective of the game is to guess the secret code of colors within 15 attemp
 - **mastermind_sae101.py**: Script containing the core game logic, user input handling and win/lose conditions.
 - **mm.py**: Script containing colors used and UI elements using Pygame.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## How to try it?
 1. **Download** this repository :
@@ -45,10 +50,15 @@ The objective of the game is to guess the secret code of colors within 15 attemp
    ```bash
    python mastermind_sae101.py
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 This project is open-source. You can use, modify, and distribute it. If you include major changes or use it as part of your project, consider giving credit in your own README.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Credits
 Conway's Game of Life rules: [Wikipedia](https://en.wikipedia.org/wiki/Mastermind_(board_game))
 <br /> Pygame (https://www.pygame.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
